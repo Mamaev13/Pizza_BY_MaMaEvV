@@ -1,0 +1,47 @@
+C:\Users\Студент.403-6\Desktop\yyyyyy\yyyyyy\bin\Debug\yyyyyy.exe.config
+C:\Users\Студент.403-6\Desktop\yyyyyy\yyyyyy\bin\Debug\yyyyyy.exe
+C:\Users\Студент.403-6\Desktop\yyyyyy\yyyyyy\bin\Debug\yyyyyy.pdb
+C:\Users\Студент.403-6\Desktop\yyyyyy\yyyyyy\obj\Debug\yyyyyy.csproj.AssemblyReference.cache
+C:\Users\Студент.403-6\Desktop\yyyyyy\yyyyyy\obj\Debug\yyyyyy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент.403-6\Desktop\yyyyyy\yyyyyy\obj\Debug\yyyyyy.Form1.resources
+C:\Users\Студент.403-6\Desktop\yyyyyy\yyyyyy\obj\Debug\yyyyyy.Form2.resources
+C:\Users\Студент.403-6\Desktop\yyyyyy\yyyyyy\obj\Debug\yyyyyy.Form3.resources
+C:\Users\Студент.403-6\Desktop\yyyyyy\yyyyyy\obj\Debug\yyyyyy.Form4.resources
+C:\Users\Студент.403-6\Desktop\yyyyyy\yyyyyy\obj\Debug\yyyyyy.Form5.resources
+C:\Users\Студент.403-6\Desktop\yyyyyy\yyyyyy\obj\Debug\yyyyyy.Form6.resources
+C:\Users\Студент.403-6\Desktop\yyyyyy\yyyyyy\obj\Debug\yyyyyy.Properties.Resources.resources
+C:\Users\Студент.403-6\Desktop\yyyyyy\yyyyyy\obj\Debug\yyyyyy.csproj.GenerateResource.cache
+C:\Users\Студент.403-6\Desktop\yyyyyy\yyyyyy\obj\Debug\yyyyyy.csproj.CoreCompileInputs.cache
+C:\Users\Студент.403-6\Desktop\yyyyyy\yyyyyy\obj\Debug\yyyyyy.exe
+C:\Users\Студент.403-6\Desktop\yyyyyy\yyyyyy\obj\Debug\yyyyyy.pdb
+C:\Users\denis\Desktop\yyyyyy (2)\yyyyyy\yyyyyy\bin\Debug\yyyyyy.exe.config
+C:\Users\denis\Desktop\yyyyyy (2)\yyyyyy\yyyyyy\bin\Debug\yyyyyy.exe
+C:\Users\denis\Desktop\yyyyyy (2)\yyyyyy\yyyyyy\obj\Debug\yyyyyy.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\yyyyyy (2)\yyyyyy\yyyyyy\obj\Debug\yyyyyy.Form1.resources
+C:\Users\denis\Desktop\yyyyyy (2)\yyyyyy\yyyyyy\obj\Debug\yyyyyy.Form2.resources
+C:\Users\denis\Desktop\yyyyyy (2)\yyyyyy\yyyyyy\obj\Debug\yyyyyy.Form3.resources
+C:\Users\denis\Desktop\yyyyyy (2)\yyyyyy\yyyyyy\obj\Debug\yyyyyy.Form4.resources
+C:\Users\denis\Desktop\yyyyyy (2)\yyyyyy\yyyyyy\obj\Debug\yyyyyy.Form5.resources
+C:\Users\denis\Desktop\yyyyyy (2)\yyyyyy\yyyyyy\obj\Debug\yyyyyy.Form6.resources
+C:\Users\denis\Desktop\yyyyyy (2)\yyyyyy\yyyyyy\obj\Debug\yyyyyy.Properties.Resources.resources
+C:\Users\denis\Desktop\yyyyyy (2)\yyyyyy\yyyyyy\obj\Debug\yyyyyy.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\yyyyyy (2)\yyyyyy\yyyyyy\obj\Debug\yyyyyy.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\yyyyyy (2)\yyyyyy\yyyyyy\obj\Debug\yyyyyy.exe
+C:\Users\denis\Desktop\yyyyyy (2)\yyyyyy\yyyyyy\obj\Debug\yyyyyy.pdb
+C:\Users\denis\Desktop\yyyyyy (2)\yyyyyy\yyyyyy\bin\Debug\yyyyyy.pdb
+C:\Users\Студент.403-5\Desktop\yyyyyy\bin\Debug\yyyyyy.exe.config
+C:\Users\Студент.403-5\Desktop\yyyyyy\bin\Debug\yyyyyy.exe
+C:\Users\Студент.403-5\Desktop\yyyyyy\bin\Debug\yyyyyy.pdb
+C:\Users\Студент.403-5\Desktop\yyyyyy\obj\Debug\yyyyyy.csprojAssemblyReference.cache
+C:\Users\Студент.403-5\Desktop\yyyyyy\obj\Debug\yyyyyy.Form1.resources
+C:\Users\Студент.403-5\Desktop\yyyyyy\obj\Debug\yyyyyy.Form2.resources
+C:\Users\Студент.403-5\Desktop\yyyyyy\obj\Debug\yyyyyy.Form3.resources
+C:\Users\Студент.403-5\Desktop\yyyyyy\obj\Debug\yyyyyy.Form4.resources
+C:\Users\Студент.403-5\Desktop\yyyyyy\obj\Debug\yyyyyy.Form5.resources
+C:\Users\Студент.403-5\Desktop\yyyyyy\obj\Debug\yyyyyy.Form6.resources
+C:\Users\Студент.403-5\Desktop\yyyyyy\obj\Debug\yyyyyy.Properties.Resources.resources
+C:\Users\Студент.403-5\Desktop\yyyyyy\obj\Debug\yyyyyy.csproj.GenerateResource.cache
+C:\Users\Студент.403-5\Desktop\yyyyyy\obj\Debug\yyyyyy.csproj.CoreCompileInputs.cache
+C:\Users\Студент.403-5\Desktop\yyyyyy\obj\Debug\yyyyyy.exe
+C:\Users\Студент.403-5\Desktop\yyyyyy\obj\Debug\yyyyyy.pdb
+C:\Users\Студент.403-5\Desktop\yyyyyy\obj\Debug\yyyyyy.Form7.resources
